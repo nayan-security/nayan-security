@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nayan 👋
 
-<!--
-**nayan-security/nayan-security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Cybersecurity Student at Manipal University Jaipur  
+🔐 Aspiring SOC Analyst | Blue Team Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 Skills I'm Learning:
+- Networking (TCP/IP, DNS, HTTP/HTTPS)
+- Linux Fundamentals
+- Cybersecurity Basics (SIEM, Threat Detection)
+- Data Analysis using Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools:
+- Nmap
+- Wireshark
+- Kali Linux
+- Microsoft Excel
+
+## 📚 Currently Learning:
+- SOC Operations
+- TryHackMe Labs
+- Data Analysis Fundamentals
+
+## 📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/nayan-dwivedi-79337024b
